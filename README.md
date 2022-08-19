@@ -22,6 +22,7 @@ https://www.kaggle.com/c/instacart-market-basket-analysis/data
 - Proyecto-JCV-2.INGENIERIA_DE_CARACTERISTICAS_v1.0.ipynb
     Archivo que realiza la generación del dataframe que se usara, agregando nuevas características a los datos iniciales.
     Por ejemplo:
+    
            - uxp_times_bought: cuantas veces un usuario compro el mismo producto.
            - uxp_reordered_ratio: relación de reorden del usuario para cada producto.
            - u_num_of_orders: Número total de pedidos realizados por cada usuario.
@@ -35,6 +36,7 @@ https://www.kaggle.com/c/instacart-market-basket-analysis/data
     Con el dataframe creado se testearan diversos algoritmos para seleccionar el que brinde mejores resultados:
     
     Los algoritmos empleados son:
+    
         1. Logistic Regression
         2. SVM_rbf
         3. SVM_sigmoid
