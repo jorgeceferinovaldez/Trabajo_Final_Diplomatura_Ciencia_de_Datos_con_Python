@@ -13,6 +13,10 @@ Descargar los archivos necesarios desde:
 
 https://www.kaggle.com/c/instacart-market-basket-analysis/data
 
+Estructura del dataset
+
+![Modelo de datoss](./imagenes/modelo_de_datos.png)
+
 
 # Descripcion de archivos
 
