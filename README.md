@@ -22,14 +22,14 @@ https://www.kaggle.com/c/instacart-market-basket-analysis/data
 - Proyecto-JCV-2.INGENIERIA_DE_CARACTERISTICAS_v1.0.ipynb
     Archivo que realiza la generación del dataframe que se usara, agregando nuevas características a los datos iniciales.
     Por ejemplo:
-           - **uxp_times_bought**: cuantas veces un usuario compro el mismo producto.
-           - **uxp_reordered_ratio**: relación de reorden del usuario para cada producto.
-           - **u_num_of_orders**: Número total de pedidos realizados por cada usuario.
-           - **u_avg_prd**: promedio de productos comprados por cada usuario.
-           - **dow_most_orders_u**:dow de la mayoría de los pedidos realizados por cada usuario 
-           - **hod_most_orders_u**: hora del día en que cada usuario realiza la mayoría de los pedidos
-           - **prd_count_p**: número de veces que se compró un producto
-           - **p_reordered_ratio**: relación de reorden de productos.
+           - uxp_times_bought: cuantas veces un usuario compro el mismo producto.
+           - uxp_reordered_ratio: relación de reorden del usuario para cada producto.
+           - u_num_of_orders: Número total de pedidos realizados por cada usuario.
+           - u_avg_prd: promedio de productos comprados por cada usuario.
+           - dow_most_orders_u:dow de la mayoría de los pedidos realizados por cada usuario 
+           - hod_most_orders_u: hora del día en que cada usuario realiza la mayoría de los pedidos
+           - prd_count_p: número de veces que se compró un producto
+           - p_reordered_ratio: relación de reorden de productos.
 
 - Proyecto-JCV-3.MODELO_DE_ENTRENAMIENTO_v2.0.ipynb
     Con el dataframe creado se testearan diversos algoritmos para seleccionar el que brinde mejores resultados:
